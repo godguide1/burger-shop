@@ -4,6 +4,7 @@ import Layout from './hoc/Layout/Layout';
 import BurgerBuilder from './container/BurgerBuilder/BurgerBuilder';
 
 class App extends Component {
+
   render() {
     return (
       <div>
